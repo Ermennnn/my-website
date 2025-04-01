@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Про Помідори</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #ff6347;
+            margin-top: 20px;
+        }
+        .image-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 30px;
+        }
+        .image-container img {
+            width: 200px;
+            height: auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Про Помідори</h1>
+    <p>Помідори — це смачні та корисні плоди, які використовуються в багатьох стравах. Ось кілька зображень помідорів:</p>
+
+    <div class="image-container">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm-6QVkNbO5SKS1InuN3riDYtExHP5G1y2qw&s" alt="Помідори 1">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw7m0YQuArEU72uNfFShFiMUljXFm4c1lSxA&s" alt="Помідори 2">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZOzdPZ1ceIvx-wqeQhBwfVbr6RqDCwBPzkQ&s" alt="Помідори 3">
+    </div>
+
+    <p>Помідори багаті на вітаміни та антиоксиданти, особливо корисні для здоров'я шкіри та серця.</p>
+
+</body>
+</html>

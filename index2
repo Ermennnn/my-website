@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Про Бомбардіро Крокодла</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            color: #2e8b57;
+            margin-top: 20px;
+        }
+        .image-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 30px;
+        }
+        .image-container img {
+            width: 300px;
+            height: auto;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Про Бомбардіро Крокодла</h1>
+    <p>Бомбардіро крокодл, або деїносукус, — це величезна рептилія, яка жила в доісторичні часи. Ось кілька зображень цього грізного створіння:</p>
+
+    <div class="image-container">
+        <img src="https://i.ytimg.com/vi/aTzmW3mR83c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD1yKWHWJsYI81lfU-oXR98_kDbaQ" alt="Бомбардіро Крокодл 1">
+        <img src="https://www.dododex.com/media/creature/deinosuchus.png" alt="Бомбардіро Крокодл 2">
+        <img src="https://i.ytimg.com/vi/x6TaiAan5kw/hqdefault.jpg" alt="Бомбардіро Крокодл 3">
+    </div>
+
+    <p>Деїносукус був одним з найбільших крокодилоподібних, що коли-небудь існували на Землі. Його величезні розміри і потужні щелепи робили його дуже небезпечним хижаком.</p>
+
+</body>
+</html>
